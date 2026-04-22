@@ -12,3 +12,5 @@ Teachable Machine
 
 запуск:
 путь к main.py
+создать .env с TG_API_TOKEN=<твой тг токен>
+и папку image
