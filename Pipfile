@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytelegrambotapi = "*"
+numpy = "*"
+pillow = "*"
+keras = "==2.12"
+tensorflow = "==2.12"
+requests = "*"
+python-dotenv = "*"
+imageai = "*"
+pytorch = "*"
+torchvision = "*"
+opencv-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
